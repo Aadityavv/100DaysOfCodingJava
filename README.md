@@ -10,3 +10,4 @@ Today is 18-06-2024. I am challenging myself to start a 100 day coding challenge
 4.print normal fibonacci series
 5.print fibonacci series using recursion
 6.create an array to add and print array elements
+7.File created to print sorted array
