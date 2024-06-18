@@ -1,5 +1,3 @@
-package fibonacciSeries_usingRecursion;
-
 import java.util.Scanner;
 
 public class fibonacci {
